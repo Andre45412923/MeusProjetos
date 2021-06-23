@@ -1,3 +1,18 @@
-.casa{
-     justify-self: start;
+*{
+     padding: 0px;
+     margin: 0px;
+
+}
+a{
+     text-decoration: name;
+     color: black;
+
+}
+body{
+     font-family: Arial;
+
+}
+
+ul{
+     list-style: name;
 }
